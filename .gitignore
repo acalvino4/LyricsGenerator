@@ -1,0 +1,15 @@
+envs/
+.vscode/
+
+# Saved and generated lyrics
+cached-lyrics/
+new-lyrics/
+
+# Files autocreated by Python
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Notebook stuff
+/.ipynb_checkpoints
