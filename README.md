@@ -1,4 +1,4 @@
-## Song Generator
+## Lyrics Generator
 
 This is a module that uses a Markov Chain to generate song lyrics in the style of your favorite artist.
 
