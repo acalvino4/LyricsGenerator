@@ -15,3 +15,6 @@ If you wish to run the notebook yourself:
 * import the repo locally
 * have anaconda-project [installed](https://anaconda-project.readthedocs.io/en/latest/install.html)
 * `anaconda-project run notebook` from local repo directory
+
+
+The first time the project is run, anaconda-project needs to set up the environment, so it may take slightly longer.
