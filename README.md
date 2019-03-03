@@ -2,7 +2,7 @@
 
 This is a module that uses a Markov Chain to generate song lyrics in the style of your favorite artist.
 
-View use case at https://acalvino4.github.io/SongGenerator.<br>
+View use case at https://acalvino4.github.io/LyricsGenerator.<br>
 Alternatively, enter the .ipynb file's url on [juptyer nbviewer](https://nbviewer.jupyter.org/).
 
 #### Overview
